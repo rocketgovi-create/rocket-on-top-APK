@@ -1,0 +1,15 @@
+ROCKET ON TOP - GITHUB IMPORT PACKAGE
+
+1. Extract this ZIP on your computer.
+2. Open your GitHub repository.
+3. Choose Add file > Upload files.
+4. Upload ALL files and folders INSIDE this extracted folder, including the hidden .github folder.
+5. If GitHub asks, replace existing files with these versions.
+6. Commit changes.
+7. Open Actions > Build ROCKET ON TOP APK > Run workflow.
+8. When successful, download the ROCKET-ON-TOP-APK artifact.
+
+IMPORTANT:
+- Keep app/ at the same level as settings.gradle.
+- Keep .github/workflows/build-apk.yml in its exact folder path.
+- Do not upload only the ZIP file.
